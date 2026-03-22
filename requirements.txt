@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+opencv-python>=4.10.0
+numpy>=1.26.0
+mediapipe>=0.10.15
+#pip install --upgrade pip setuptools wheel
+#pip install mediapipe
